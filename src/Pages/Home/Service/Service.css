@@ -1,0 +1,20 @@
+/*------ Service Stylesheet  -----*/
+
+.card{
+    background-color: rgb(211, 226, 143);
+}
+
+
+.card:hover{
+   color: white;
+   position: relative;
+}
+
+
+.service-text:hover{
+    color: rgb(136, 181, 226)
+}
+
+.btn{
+    background-color: goldenrod;
+}

@@ -1,0 +1,22 @@
+/*----- Contact Stylesheet -----*/
+
+.contact-us{
+    height: 600px;
+    background-color: rgb(223, 242, 243);
+    
+}
+.contact{
+    background-color: rgb(131, 125, 125);
+}
+
+.margin{
+    margin-top: 50px;
+}
+.margin-2{
+    background-color: aqua;
+    padding: 50px;
+    margin-top: 70px;
+}
+.btn-margin{
+    margin-top: 20px;
+}

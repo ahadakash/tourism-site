@@ -1,0 +1,17 @@
+/* About css class  */
+
+.about-style{
+    display: flex;
+    margin-right: 10px;
+}
+.about-container h1{
+    text-align: start;
+    margin-left: 40px;
+}
+.about-container p{
+    margin: 10px;
+}
+.about{
+    
+    background-color: rgb(131, 125, 125);
+}

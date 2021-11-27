@@ -1,0 +1,14 @@
+.tour{
+    background-color: antiquewhite;
+    height: 450px;
+}
+
+.tour2{
+    
+}
+
+@media only screen and (max-width: 450px) {
+    .tour{
+        height: 1000px;
+    }
+  }

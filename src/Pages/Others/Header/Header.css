@@ -1,0 +1,33 @@
+/*----- Header stylesheet ------*/
+
+.menu-bar{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(110, 96, 96);
+ }
+
+ .logo{
+     color: rgb(30, 207, 98);
+ }
+.all-nav{
+    padding-top: 5px;
+}
+ 
+ .link{
+     padding-right: 30px;
+     text-decoration: none;
+     color: lightgray;
+     font-weight: 700;
+ }
+ .btn-style{
+     background-color: rgb(183, 171, 216);
+     text-decoration: none;
+     padding: 5px 15px;
+     border-radius: 5px;
+     color: #004861;
+     font-weight: 700;
+ 
+ }
+
+ 
+ 
